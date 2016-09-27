@@ -11,13 +11,13 @@ Easy Jet comparison **this is a sting comment**
 
 <html>
 
-<h1> This is bad </h1>
+<h1> Comparison of Desktop Vs Mobile </h1>
 
 ```
 
 ## This is how to include an image
-![This is an image](Tulips.jpg) '
->> <sub> this is from the desktop </sub>
+![This is an image](Buffalocomparison.jpg) '
+>> <sub> this is the website buffalo, from the desktop version (Left) and mobile version (Right) </sub>
 
 
 
