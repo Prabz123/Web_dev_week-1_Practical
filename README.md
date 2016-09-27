@@ -19,6 +19,6 @@ Buffalo Webiste **this is a sting comment**
 ![This is an image](Buffalocomparison.jpg) '
 >> <sub> this is the website buffalo, from the desktop version (Left) and mobile version (Right) </sub>
 
-1. Desktop
+⋅⋅* Desktop.  
 - Takes up more of the screen. 
 
