@@ -20,5 +20,5 @@ Buffalo Webiste **this is a sting comment**
 >> <sub> this is the website buffalo, from the desktop version (Left) and mobile version (Right) </sub>
 
 1. Desktop
-⋅⋅* Takes up more of the screen. 
+- Takes up more of the screen. 
 
