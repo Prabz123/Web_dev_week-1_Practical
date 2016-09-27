@@ -16,6 +16,6 @@ Easy Jet comparison **this is a sting comment**
 ```
 
 ## This is how to include an image
-![This is an image](Tulips.jpeg) '
+![This is an image](Tulips.jpg) '
 >> <sub> this is from the desktop </sub>
 
