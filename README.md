@@ -1,10 +1,10 @@
 # Web_dev_week-1_Practical
-Web design practical
+Comparing the mobile and desktop version of the website Buffalo
 
-Easy Jet comparison **this is a sting comment**
+Buffalo Webiste **this is a sting comment**
 
 
-[Easy Jet Website](http://www.easyjet.com/en/)
+[Buffalo Website](http://builtbybuffalo.com/)
 >> I'm a note
 
 ```html
@@ -19,5 +19,6 @@ Easy Jet comparison **this is a sting comment**
 ![This is an image](Buffalocomparison.jpg) '
 >> <sub> this is the website buffalo, from the desktop version (Left) and mobile version (Right) </sub>
 
-
+1. Desktop
+⋅⋅* Takes up more of the screen. 
 
